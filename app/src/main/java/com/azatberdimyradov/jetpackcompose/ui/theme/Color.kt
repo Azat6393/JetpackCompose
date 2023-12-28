@@ -13,3 +13,7 @@ val Pink40 = Color(0xFF7D5260)
 val ColorBlue = Color(0xFF00a8e8)
 val ErrorRed = Color(0xFFFF6C60)
 val SuccessGreen = Color(0xFF00C096)
+
+val AppGreen = Color(0xFF53CC06)
+val LightGreen = Color(0xFF4ad66d)
+val LightRed = Color(0xFFef233c)

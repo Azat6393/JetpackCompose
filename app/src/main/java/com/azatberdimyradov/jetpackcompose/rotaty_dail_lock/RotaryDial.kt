@@ -1,4 +1,4 @@
-package com.azatberdimyradov.jetpackcompose.ui.rotaty_dail_lock
+package com.azatberdimyradov.jetpackcompose.rotaty_dail_lock
 
 import android.graphics.Paint
 import androidx.compose.animation.core.Animatable
