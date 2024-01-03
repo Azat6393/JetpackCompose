@@ -40,8 +40,8 @@ object Font {
                 style = FontStyle.Normal
             ),
             Font(
-                resId = R.font.geologica_light,
-                weight = FontWeight.Light,
+                resId = R.font.geologica_thin,
+                weight = FontWeight.Thin,
                 style = FontStyle.Normal
             ),
             Font(
