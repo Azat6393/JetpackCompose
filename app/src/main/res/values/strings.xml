@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">JetpackCompose</string>
+    <string name="space_title_one">SPACE</string>
+    <string name="space_title_two">COSMOS</string>
+    <string name="space_title_three">COSMIC</string>
+    <string name="space_description_one">Embark on a journey beyond the stats. Explore the wondres of out universe right from your device.</string>
+    <string name="space_description_two">From celestial bodies to cosmic events, dive into a wealth of space knowledge and fascinating discoveries.</string>
+    <string name="space_description_three">Stay updated with latest space news, breathtaking images, and captivating facts about the vastness of space.</string>
 </resources>

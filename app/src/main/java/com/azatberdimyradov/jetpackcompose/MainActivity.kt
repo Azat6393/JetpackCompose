@@ -17,6 +17,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
+import com.azatberdimyradov.canvarworkplace.space.Space
 import com.azatberdimyradov.jetpackcompose.rent_a_car_ui.RentACarScreen
 import com.azatberdimyradov.jetpackcompose.tutorial_walkthrough.TutorialWalkThrough
 import com.azatberdimyradov.jetpackcompose.tutorial_walkthrough.TutorialWalkthroughStyle
@@ -36,7 +37,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    RentACarScreen()
+                    Space()
                 }
             }
         }
